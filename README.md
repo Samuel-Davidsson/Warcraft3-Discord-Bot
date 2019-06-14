@@ -7,6 +7,6 @@
 **!stats <username> shows the total stats and winratio for the user.**      
 ![Stats command](https://i.gyazo.com/82a9eb4ad31c960a6a3cda74015b0604.png)
   
-**!weather <cityname> shows the current weather.**    
-![Weather command](https://i.gyazo.com/aec7e502d84c8c72ebcad5baf7bf8b01.png)
+**!weather <cityname> shows the current weather.**  
+![Weather command](https://gyazo.com/1fa92c284a0e016732096d9bb95a9f28.png)
   
