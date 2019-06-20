@@ -1,7 +1,9 @@
 # Warcraft3-Discord-Bot
 ## Discord bot for our warcraft3 discord channel. ##           
 **Bot commands avalible at the moment.**  
-![Bot commands](https://i.gyazo.com/bbf4f9f560877ad583e521acda013916.png)
+[![Bot Commands](https://gyazo.com/eb4d405a2be7e1c734b1b69a90c8a483.png)](https://gyazo.com/eb4d405a2be7e1c734b1b69a90c8a483)
+
+* **
 
 **A small sample of what you can do and what it looks like.**          
 **!stats <username> shows the total stats and winratio for the user.**      
