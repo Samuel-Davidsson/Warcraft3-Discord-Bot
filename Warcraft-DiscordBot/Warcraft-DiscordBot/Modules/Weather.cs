@@ -24,7 +24,7 @@ namespace Warcraft_DiscordBot.Modules
             var forecastDay = result.Forecast.Forecastday.Single(x => x.Date == onlyDate);
             EmbedBuilder builder = new EmbedBuilder();
 
-            builder.WithTitle($"Forecast for {forecastDay.Day} at {result.Location.Name} - {result.Location.Country}")
+            builder.WithTitle($"Forecast for {forecastDay.Date} at {result.Location.Name} - {result.Location.Country}")
                 .WithDescription($"Condition: {forecastDay.Day.condition.Text} \nTemp: {forecastDay.Day.avgtemp_c}")
                 .WithImageUrl("http:" + forecastDay.Day.condition.Icon)
                 .WithColor(Color.Green)

@@ -11,6 +11,7 @@ namespace Warcraft_DiscordBot.Modules
         [Command("stats")]
         public async Task CheckStats(string name)
         {
+            var msg = await ReplyAsync("Checking stats may take a couple of seconds..");
             var result = await GetStats(name.ToLower());
             EmbedBuilder builder = new EmbedBuilder();
 

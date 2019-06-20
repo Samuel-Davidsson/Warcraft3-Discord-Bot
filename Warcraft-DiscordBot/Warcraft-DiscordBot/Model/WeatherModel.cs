@@ -96,8 +96,6 @@ namespace Warcraft_DiscordBot.Model
         public string moonset { get; set; }
     }
 
-
-
     public class Hour
     {
         public int time_epoch { get; set; }
